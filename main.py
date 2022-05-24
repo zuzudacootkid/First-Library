@@ -9,7 +9,7 @@ class Starter:
 
 
         self.heading_label = Label (self.start_frame, text = "Virtual library ct", bg="gray85", font=("montserrat", "12", "bold") )
-        self.heading_label.grid(row=1,column=3)       
+        self.heading_label.grid(row=1,column=3)
 
 
 
