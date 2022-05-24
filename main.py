@@ -12,8 +12,6 @@ class Starter:
 
 
 
-
-
 root = Tk()
 root.title("Virtual Library")
 root.mainloop()
